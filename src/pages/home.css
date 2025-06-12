@@ -1,0 +1,17 @@
+.home-page {
+ padding: 40px 40px; /* 40px em cima/baixo, 20px nas laterais */
+}
+
+.home-page h2 {
+  color: #5e7fdb;
+}
+
+.home-buttons a {
+  margin: 0 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+  color: #3851c2;
+  text-decoration: none; /* pra ficar sem traço em baixo*/
+}
